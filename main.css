@@ -1,5 +1,13 @@
 * {
   box-sizing: border-box;
+  list-style: none;
+}
+body {
+  background-color: #f8f8f8;
+  font-family: "Raleway", sans-serif;
+}
+.header {
+  background-color: white;
 }
 .header-top {
   display: flex;
@@ -28,10 +36,10 @@ a {
   padding-top: 20px;
 }
 .search {
-  margin: 0;
   width: 250px;
   height: 40px;
   padding: 0 20px;
+  margin: 0;
 }
 input[type="submit"] {
   position: absolute;
@@ -45,23 +53,97 @@ input[type="submit"] {
   height: 40px;
   background-color: #e62263;
 }
-nav{
-    border-bottom: 3px solid #e62263;
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 3px solid #e62263;
+  background-color: white;
 }
-.menu{
-    height: 50px;
-    position: relative;
-    background: #f8f8f8;
-    border: 1px #e5e5e5 solid;
-    border-bottom: none;
+.menu {
+  position: relative;
+  width: 1000px;
+  height: 50px;
+  background: #f8f8f8;
+  border: 1px #e5e5e5 solid;
+  border-bottom: none;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
 }
-ul {
+.menu > ul {
   display: flex;
   align-items: center;
-  list-style: none;
 }
-li {
-    display: inline-block;
-    padding: 0 18px;
-    border-right: 1px solid #ddd;
+.menu > ul > li {
+  display: flex;
+  padding: 0 18px;
+  border-right: 1px solid #ddd;
+}
+.menu ul li ul {
+  position: absolute;
+  display: none;
+  width: 120px;
+  background: #f8f8f8;
+  top: 52px;
+  left: 130px;
+}
+.menu ul li :hover ul {
+  display: flex;
+}
+.section {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+.section1 {
+  display: flex;
+  width: 1000px;
+}
+.img {
+  width: 680px;
+  height: 450px;
+  background-image: url("D:/Resimler/flower.jpg");
+  background-repeat: no-repeat;
+  background-size: 680px, 450px;
+  margin-right: 20px;
+}
+.product {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  height: 420px;
+  background-color: white;
+}
+.product-img {
+  width: 250px;
+  height: 250px;
+  background-image: url("D:/Resimler/product.jpg");
+  background-repeat: no-repeat;
+  background-size: 250px, 250px;
+  object-fit: scale-down;
+  margin-top: 50px;
+  margin-bottom: auto;
+  transition: 2s;
+}
+.product-img:hover {
+  width: 270px;
+  height: 270px;
+  background-size: 270px, 270px;
+}
+
+.product-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.product-star {
+  width: 50px;
+  height: 20px;
+  background-image: url("D:/Resimler/star.png");
+  background-size: 50px, 20px;
+  background-repeat: no-repeat;
+  margin-top: 5px;
 }
