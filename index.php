@@ -31,7 +31,6 @@
                     </form>
                 </div>
                 <div>Default welcome msg!</div>
-
             </div>
             <div class="header-right">
                 <a href="">My Account</a>
@@ -48,25 +47,47 @@
                     <input type="submit" value="">
                 </form>
             </div>
-            <div class="creta"><h1>CRETA</h1></div>
+            <div class="creta">
+                <h1>CRETA</h1>
+            </div>
             <div class="card"></div>
         </div>
     </div>
     <nav>
         <div class="menu">
-        <ul>
-            <li>HOME</li>
-            <li>BIRTHDAY</li>
-            <li>SAME DAY</li>
-            <li>GET WELL</li>
-            <li>INTERNATIONAL</li>
-            <li>ANNIVERSARYY</li>
-            <li>GIFTS</li>
-            <li>CUSTOM</li>
-        </ul>
-    </div>
-    
+            <ul>
+                <li><a href="">HOME</a></li>
+                <li><a href="">BIRTHDAY</a>
+                    <ul>
+                        <li><a href="">menu</a></li>
+                        <li><a href="">menu</a></li>
+                        <li><a href="">menu</a></li>
+                        <li><a href="">menu</a></li>
+                        <li><a href="">menu</a></li>
+                    </ul>
+                </li>
+                <li><a href="">SAME DAY</a></li>
+                <li><a href="">GET WELL</a></li>
+                <li><a href="">INTERNATIONAL</a></li>
+                <li><a href="">ANNIVERSARY</a></li>
+                <li><a href="">GIFTS</a></li>
+                <li><a href="">CUSTOM</a></li>
+            </ul>
+        </div>
     </nav>
+    <div class="section">
+        <div class="section1">
+            <div class="img"></div>
+            <div class="product">
+                <div class="product-img"></div>
+                <div class="product-info">
+                    <div class="product-name"><a href="">Delbard</a></div>
+                    <div class="product-star"></div>
+                    <div class="produxct-price">$100.00</div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 
 </html>
