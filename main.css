@@ -5,6 +5,7 @@
 body {
   background-color: #f8f8f8;
   font-family: "Raleway", sans-serif;
+  letter-spacing: 0.5px;
 }
 .header {
   background-color: white;
@@ -93,7 +94,8 @@ nav {
 }
 .section {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   margin-top: 25px;
 }
 .section1 {
@@ -127,12 +129,6 @@ nav {
   margin-bottom: auto;
   transition: 2s;
 }
-.product-img:hover {
-  width: 270px;
-  height: 270px;
-  background-size: 270px, 270px;
-}
-
 .product-info {
   display: flex;
   flex-direction: column;
@@ -146,4 +142,45 @@ nav {
   background-size: 50px, 20px;
   background-repeat: no-repeat;
   margin-top: 5px;
+}
+.section2 {
+  display: flex;
+  flex-direction: column;
+  width: 1000px;
+  height: 500px;
+  margin-top: 25px;
+  background-color: white;
+}
+.section2-nav {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-bottom: 1px #e5e5e5 solid;
+}
+.section2-nav-list {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+.section2-nav-list ul {
+  display: flex;
+}
+.section2-nav-list ul li {
+  border-right: 1px #e5e5e5 solid;
+  padding-left: 5px;
+}
+.section2-product{
+  display: flex;
+  flex-wrap: wrap;
+}
+.section2-product-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.product-cart{
+  border: 1px #e5e5e5 solid;
+  padding: 5px;
+  margin-top: 10px;
 }
