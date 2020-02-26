@@ -83,7 +83,60 @@
                 <div class="product-info">
                     <div class="product-name"><a href="">Delbard</a></div>
                     <div class="product-star"></div>
-                    <div class="produxct-price">$100.00</div>
+                    <div class="product-price">$100.00</div>
+                </div>
+            </div>
+        </div>
+        <div class="section2">
+            <div class="section2-nav">
+                <div class="section2-nav-title">
+                    <h1>NEW PRODUCT</h1>
+                </div>
+                <div class="section2-nav-list">
+                    <ul>
+                        <li><a href="">ROSES</a></li>
+                        <li><a href="">IRISES</a></li>
+                        <li><a href="">LILIES</a></li>
+                        <li><a href="">TULIPS</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="section2-product">
+                <div class="section2-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+                <div class="section2-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+                <div class="section2-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+                <div class="section2-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
                 </div>
             </div>
         </div>
