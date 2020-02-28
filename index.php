@@ -140,6 +140,152 @@
                 </div>
             </div>
         </div>
+        <div class="section3">
+            <div class="section-side">
+                <div class="section-side-title">
+                    <h2>BEST <br> <em>SELLERS</em></h2>
+                </div>
+                <div class="section-side-content">Lorem Ipsum is simply dummy text of the printing and typesetting
+                    industry. Curabitur eu odio non justo euismod congue ut nec orci</div>
+                <div class="section-side-view"><a href="">VIEW ALL</a></div>
+            </div>
+            <div class="section3-product">
+                <div class="section3-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+                <div class="section3-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+                <div class="section3-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+                <div class="section3-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section4">
+
+            <div class="section4-product">
+                <div class="section4-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+                <div class="section4-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+                <div class="section4-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+                <div class="section4-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+            </div>
+            <div class="section-side">
+                <div class="section-side-title">
+                    <h2>FEATURED <br> <em>PRODUCT</em></h2>
+                </div>
+                <div class="section-side-content">Lorem Ipsum is simply dummy text of the printing and typesetting
+                    industry. Curabitur eu odio non justo euismod congue ut nec orci</div>
+                <div class="section-side-view"><a href="">VIEW ALL</a></div>
+            </div>
+        </div>
+        <div class="section5">
+            <div class="section-side">
+                <div class="section-side-title">
+                    <h2>SPECIAL <br> <em>PRODUCT</em></h2>
+                </div>
+                <div class="section-side-content">Lorem Ipsum is simply dummy text of the printing and typesetting
+                    industry. Curabitur eu odio non justo euismod congue ut nec orci</div>
+                <div class="section-side-view"><a href="">VIEW ALL</a></div>
+            </div>
+            <div class="section5-product">
+                <div class="section5-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+                <div class="section5-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+                <div class="section5-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+                <div class="section5-product-card">
+                    <div class="product-img"></div>
+                    <div class="product-info">
+                        <div class="product-name"><a href="">Delbard</a></div>
+                        <div class="product-star"></div>
+                        <div class="product-price">$100.00</div>
+                        <div class="product-cart">Add To Cart</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     </div>
 </body>
 
