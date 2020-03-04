@@ -285,8 +285,116 @@
                 </div>
             </div>
         </div>
+        <div class="container">
+            <div class="container-title">
+                <h2><strong>LATEST</strong> BLOG</h2>
+            </div>
+            <div class="container-card">
+                <div class="container-card-inner">
+                    <div class="inner-img"><img src="D:/Resimler/flowers-blog-img3.jpg" alt=""></div>
+                    <div class="inner-info">
+                        <div class="inner-date">Jul 03, 2017</div>
+                        <div class="inner-title"> Dolor Flowers lorem ipsum</div>
+                        <div class="inner-content">
+                            Lorem ipsum dolor amet, consectetur adipiscing elit. Mattis dui odio consectetur elit dolor
+                            amet
+                        </div>
+                        <div class="inner-more"><a href="">READ MORE</a></div>
+                    </div>
+                </div>
+                <div class="container-card-inner">
+                    <div class="inner-img"><img src="D:/Resimler/flowers-blog-img4.jpg" alt=""></div>
+                    <div class="inner-info">
+                        <div class="inner-date">Jul 03, 2017</div>
+                        <div class="inner-title"> Dolor Flowers lorem ipsum</div>
+                        <div class="inner-content">Lorem ipsum dolor amet, consectetur adipiscing elit. Mattis dui odio
+                            consectetur elit dolor amet</div>
+                        <div class="inner-more"><a href="">READ MORE</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="logo">
+            <div class="logo-img"><img src="D:/Resimler/b-logo1.png" alt=""></div>
+            <div class="logo-img"><img src="D:/Resimler/b-logo2.png" alt=""></div>
+            <div class="logo-img"><img src="D:/Resimler/b-logo3.png" alt=""></div>
+            <div class="logo-img"><img src="D:/Resimler/b-logo4.png" alt=""></div>
+            <div class="logo-img"><img src="D:/Resimler/b-logo5.png" alt=""></div>
+            <div class="logo-img"><img src="D:/Resimler/b-logo6.png" alt=""></div>
+            <div class="logo-img"><img src="D:/Resimler/b-logo1.png" alt=""></div>
+            <div class="logo-img"><img src="D:/Resimler/b-logo2.png" alt=""></div>
+        </div>
     </div>
+    <div class="box">
+        <h3>FREE SHIPPING WORLDWIDE</h3>
+        <h3>24/7 CUSTOMER SUPPORT</h3>
+        <h3>RETURNS AND EXCHANGES</h3>
+        <h3>HOTLINE +(408) 394-7557</h3>
     </div>
+    <footer>
+        <div class="footer">
+            <div class="footer-row">
+                <div class="footer-column">
+                    <h4>SHOPPING GUIDE</h4>
+                    <ul>
+                        <li><a href="">Blog</a></li>
+                        <li><a href="">FAQs</a></li>
+                        <li><a href="">Payment</a></li>
+                        <li><a href="">Shipment</a></li>
+                        <li><a href="">Where is my order?</a></li>
+                        <li><a href="">Return policy</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>STYLE ADVISOR</h4>
+                    <ul>
+                        <li><a href="">Your Account</a></li>
+                        <li><a href="">Information</a></li>
+                        <li><a href="">Addresses</a></li>
+                        <li><a href="">Discount</a></li>
+                        <li><a href="">Orders History</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>INFORMATION</h4>
+                    <ul>
+                        <li><a href="">Site Map</a></li>
+                        <li><a href="">Search Terms</a></li>
+                        <li><a href="">Advanced Search</a></li>
+                        <li><a href="">About Us</a></li>
+                        <li><a href="">Contact Us</a></li>
+                        <li><a href="">Suppliers</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column-right">
+                    <div class="form">
+                        <h4>SIGN UP FOR EMAILS</h4>
+                        <form action="">
+                            <input type="text" placeholder="Enter your email adresses">
+                            <button type="submit">SUBSCRIBE</button>
+                        </form>
+                    </div>
+                    <div class="social">
+                        <h4>FOLLOW US</h4>
+                        <ul>
+                            <li><a href="http://mas1.magikthemes.com/index.php/cretademo2#"></a></li>
+                            <li><a href=""></a></li>
+                            <li><a href=""></a></li>
+                            <li><a href=""></a></li>
+                            <li><a href=""></a></li>
+                            <li><a href=""></a></li>
+                            <li><a href=""></a></li>
+                        </ul>
+                    </div>
+                    <div class="payment">
+                        <img src="" alt="">
+                        <img src="" alt="">
+                        <img src="" alt="">
+                        <img src="" alt="">
+                    </div>
+                </div>
+            </div>
+    </footer>
 </body>
 
 </html>
