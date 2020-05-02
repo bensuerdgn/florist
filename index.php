@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -33,7 +34,7 @@
                 <div>Default welcome msg!</div>
             </div>
             <div class="header-right">
-                <a href="">My Account</a>
+                <a href="my-account.html">My Account</a>
                 <a href="">Checkout</a>
                 <a href="">Blog</a>
                 <a href="">Company</a>
@@ -77,9 +78,9 @@
     </nav>
     <div class="section">
         <div class="section1">
-            <div class="img"></div>
+            <div class="img"><img src="D:/Resimler/flower.jpg"></div>
             <div class="product">
-                <div class="product-img"></div>
+                <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                 <div class="product-info">
                     <div class="product-name"><a href="">Delbard</a></div>
                     <div class="product-star"></div>
@@ -103,7 +104,7 @@
             </div>
             <div class="section2-product">
                 <div class="section2-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -112,7 +113,7 @@
                     </div>
                 </div>
                 <div class="section2-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -121,7 +122,7 @@
                     </div>
                 </div>
                 <div class="section2-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -130,7 +131,7 @@
                     </div>
                 </div>
                 <div class="section2-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -151,7 +152,7 @@
             </div>
             <div class="section3-product">
                 <div class="section3-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -160,7 +161,7 @@
                     </div>
                 </div>
                 <div class="section3-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -169,7 +170,7 @@
                     </div>
                 </div>
                 <div class="section3-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -178,7 +179,7 @@
                     </div>
                 </div>
                 <div class="section3-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -192,7 +193,7 @@
 
             <div class="section4-product">
                 <div class="section4-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -201,7 +202,7 @@
                     </div>
                 </div>
                 <div class="section4-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -210,7 +211,7 @@
                     </div>
                 </div>
                 <div class="section4-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -219,7 +220,7 @@
                     </div>
                 </div>
                 <div class="section4-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -248,7 +249,7 @@
             </div>
             <div class="section5-product">
                 <div class="section5-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -257,7 +258,7 @@
                     </div>
                 </div>
                 <div class="section5-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -266,7 +267,7 @@
                     </div>
                 </div>
                 <div class="section5-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
@@ -275,7 +276,7 @@
                     </div>
                 </div>
                 <div class="section5-product-card">
-                    <div class="product-img"></div>
+                    <div class="product-img"><img src="D:/Resimler/product.jpg"></div>
                     <div class="product-info">
                         <div class="product-name"><a href="">Delbard</a></div>
                         <div class="product-star"></div>
