@@ -10,7 +10,9 @@ body {
 .header {
   position: relative;
   background-color: white;
-  padding-left: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .header-top {
   display: flex;
