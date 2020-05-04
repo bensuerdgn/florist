@@ -101,3 +101,157 @@ nav {
 .menu ul li :hover ul {
   display: flex;
 }
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 25px;
+}
+.section1 {
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+  width: 1200px;
+  background-color: white;
+  border: 1px #e5e5e5 solid;
+}
+.account-title {
+  display: flex;
+  align-items: center;
+  height: 80px;
+  padding-left: 25px;
+  border-bottom: 1px #e5e5e5 solid;
+}
+.account-form {
+  display: flex;
+  flex-direction: row;
+}
+.new-users {
+  padding-left: 25px;
+  width: 600px;
+}
+.registered-users {
+  padding-left: 60px;
+  padding-right: 25px;
+  width: 600px;
+}
+.new-customer,
+.registered-customer {
+  border-bottom: 1px #e5e5e5 solid;
+  padding-top: 20px;
+}
+.registered-users input {
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  width: 100%;
+  margin-top: 5px;
+  outline: none;
+  color: #aaa;
+}
+.registered-users button,
+.new-users button {
+  padding: 8px 9px;
+  border: 1px #d1d1d1 solid;
+  font-size: 11px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  background-color: #fff;
+  color: #333;
+}
+p {
+  font-family: "Raleway", sans-serif;
+  font-size: 12px;
+  color: #333;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 1200px;
+  height: 100px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background-color: white;
+  border: 1px solid #e5e5e5;
+}
+.logo-img {
+  margin-right: 20px;
+}
+.box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 70px;
+  background-color: #e62263;
+  color: white;
+  font-size: 12px;
+  font-weight: normal;
+}
+.footer {
+  width: 100%;
+  height: 500px;
+  background-color: black;
+}
+.footer-row {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+.footer h4 {
+  margin: 0;
+  color: white;
+  padding: 0 0 10px;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.footer-column a {
+  line-height: 35px;
+  color: #aaa;
+  font-size: 13px;
+}
+.footer-column a:before {
+  content: ">";
+  font-size: 11px;
+  cursor: pointer;
+  line-height: 20px;
+  color: #aaa;
+  margin-right: 5px;
+}
+.footer-column ul {
+  padding: 0;
+  margin: 0;
+}
+.footer-column-right {
+  width: 285px;
+}
+.footer input[type="text"] {
+  background: #ffffff;
+  height: auto;
+  display: inline-block;
+  color: #a7a7a7;
+  line-height: 23px;
+  background-color: #fff;
+  border: none;
+  font-size: 13px;
+  border: none;
+  padding: 8px 10px;
+  width: 64%;
+  margin: 0px;
+}
+.footer button {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  background: #e62263;
+  height: 39px;
+  letter-spacing: 1px;
+  border: none;
+  margin-left: 5px;
+}
+.social h4 {
+  padding-top: 20px;
+}
